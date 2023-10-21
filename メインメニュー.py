@@ -9,6 +9,7 @@ st.set_page_config(
 )
 
 # ロゴ＆ポエム
+st.header("")
 st.image('tokainakahome.png', use_column_width=True)
 st.divider()
 
